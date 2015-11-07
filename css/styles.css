@@ -8,12 +8,30 @@ Fourth rgb(106, 217, 242)
 */
 
 
-/* Typography 
 
-Headings 
-
-*/
+/* Global */
 
 body {
 background: red;
+}
+
+
+/* Typography 
+
+Headings
+
+font-family: 'Comfortaa', cursive;
+
+*/
+
+
+/* Navigation */
+
+li {
+display: inline-block;
+}
+
+
+h1{
+font-family: 'Comfortaa', cursive;
 }
