@@ -38,7 +38,11 @@ font-family: 'Comfortaa', cursive;
    
 }
 
-
+h2 {
+color: rgb(242, 68, 79) ;
+    text-align: center;
+    
+}
 
 /* Navigation */
 
@@ -52,13 +56,15 @@ font-family: 'Comfortaa', cursive;
     font-size: 2em;
     padding: .5em 1em;
     background-color: rgb(106, 217, 242);
-    border-radius: 25%
-}
+    border-radius: 75%;
+    text-decoration: none;}
+
 
 a:focus,
 a:active,
-a:hover { 
-background-color:rgb(31, 57, 141); 
+a:hover 
+{ 
+background-color:rgb(242, 68, 79) ;
 }
  
 
