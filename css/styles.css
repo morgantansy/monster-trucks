@@ -12,7 +12,12 @@ Fourth rgb(106, 217, 242)
 /* Global */
 
 body {
-background: red;
+background-image: url(../img/soil-and-grass-hd-wallpaper-for-desktop-background-download-soil-images-free.jpg);
+    
+}
+
+p {
+color: rgb(1, 165, 76);
 }
 
 
@@ -25,6 +30,16 @@ font-family: 'Comfortaa', cursive;
 */
 
 
+
+h1{
+font-family: 'Comfortaa', cursive;
+    color: rgb(1, 165, 76);
+    text-align: center;
+   
+}
+
+
+
 /* Navigation */
 
 li {
@@ -32,6 +47,22 @@ display: inline-block;
 }
 
 
-h1{
+a:link {
 font-family: 'Comfortaa', cursive;
+    font-size: 2em;
+    padding: .5em 1em;
+    background-color: rgb(106, 217, 242);
+    border-radius: 25%
 }
+
+a:focus,
+a:active,
+a:hover { 
+background-color:rgb(31, 57, 141); 
+}
+ 
+
+
+
+
+
